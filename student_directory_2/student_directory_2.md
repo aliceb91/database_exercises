@@ -20,10 +20,11 @@ I want to see a list of students' cohorts.
 # Nouns
 students, names, cohorts, starting dates
 
-| Record                | Properties              |
-| --------------------- | ----------------------  |
-| students              | student_names           |
-| cohorts               | cohort_name, start_date |
+# Column Table
+| Record                | Properties                     |
+| --------------------- | -----------------------------  |
+| students              | student_names                  |
+| cohorts               | cohort_name, cohort_start_date |
 
 # Column Types
 ```
@@ -34,7 +35,7 @@ Students:
 Cohorts:
     id: SERIAL
     cohort_name: text
-    start_date: text
+    cohort_start_date: text
 ```
 
 # Table Relationship
