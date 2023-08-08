@@ -1,4 +1,5 @@
 # User Story
+```
 As a person who loves movies,
 So I can list all my favourite movies
 I want to see a list of movies' titles.
@@ -10,6 +11,7 @@ I want to see a list of movies' genres.
 As a person who loves movies,
 So I can list all my favourite movies
 I want to see a list of movies' release years.
+```
 
 # Nouns
 movies, title, genre, release year
