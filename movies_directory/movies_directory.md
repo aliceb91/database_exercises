@@ -22,7 +22,9 @@ movies, title, genre, release year
 | movies                | title, genre, release year |
 
 # Column Types
+```
 id: SERIAL
 title: text
 genre: text
 release_year: int
+```

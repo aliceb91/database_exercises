@@ -18,6 +18,8 @@ student, name, cohort
 | students              | student name, cohort |
 
 # Column Types
+```
 id: SERIAL
 student_name: text
 cohort: text
+```
