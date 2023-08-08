@@ -38,11 +38,11 @@ Cohorts:
 ```
 
 # Table Relationship
-Can one student have many cohorts? NO
+Can one student have many cohorts? NO\
 Can one cohort have many students? YES
 
--> Therefore,
--> A cohort has many students
--> A student belongs to a cohort
+-> Therefore,\
+-> A cohort has many students\
+-> A student belongs to a cohort\
 
 -> Therefore, the foreign key is on the studens table
